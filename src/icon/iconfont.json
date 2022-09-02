@@ -1,0 +1,142 @@
+{
+  "id": "3496738",
+  "name": "no name",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "927739",
+      "name": "ico-sex",
+      "font_class": "ico-sex",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "1393501",
+      "name": "email",
+      "font_class": "email",
+      "unicode": "e6b4",
+      "unicode_decimal": 59060
+    },
+    {
+      "icon_id": "1421475",
+      "name": "sexm",
+      "font_class": "sexm",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
+      "icon_id": "1421478",
+      "name": "sexw",
+      "font_class": "sexw",
+      "unicode": "e649",
+      "unicode_decimal": 58953
+    },
+    {
+      "icon_id": "6936734",
+      "name": "work",
+      "font_class": "work",
+      "unicode": "e9fc",
+      "unicode_decimal": 59900
+    },
+    {
+      "icon_id": "15838549",
+      "name": "work",
+      "font_class": "work1",
+      "unicode": "e683",
+      "unicode_decimal": 59011
+    },
+    {
+      "icon_id": "15838609",
+      "name": "work-filling",
+      "font_class": "work-filling",
+      "unicode": "e68c",
+      "unicode_decimal": 59020
+    },
+    {
+      "icon_id": "22894714",
+      "name": "github",
+      "font_class": "github",
+      "unicode": "e673",
+      "unicode_decimal": 58995
+    },
+    {
+      "icon_id": "7045080",
+      "name": "箭头_上",
+      "font_class": "arrow_up",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    },
+    {
+      "icon_id": "7045262",
+      "name": "箭头_下",
+      "font_class": "arrow_down",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    },
+    {
+      "icon_id": "12489923",
+      "name": "icon_cube",
+      "font_class": "icon_cube",
+      "unicode": "e7b2",
+      "unicode_decimal": 59314
+    },
+    {
+      "icon_id": "29715052",
+      "name": "飞机",
+      "font_class": "feiji",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "29715056",
+      "name": "火车",
+      "font_class": "huoche",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "29715057",
+      "name": "计程车",
+      "font_class": "jichengche",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "29715069",
+      "name": "商城",
+      "font_class": "shangcheng",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "23713941",
+      "name": "椭圆形",
+      "font_class": "tuoyuanxing",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "3752602",
+      "name": "奖杯",
+      "font_class": "jiangbei-",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    },
+    {
+      "icon_id": "7607859",
+      "name": "奖杯",
+      "font_class": "jiangbei",
+      "unicode": "e6c9",
+      "unicode_decimal": 59081
+    },
+    {
+      "icon_id": "689324",
+      "name": "圆点小",
+      "font_class": "yuandianxiao",
+      "unicode": "e82f",
+      "unicode_decimal": 59439
+    }
+  ]
+}
